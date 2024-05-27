@@ -13,3 +13,11 @@ learn basic
         backgroundColor ""
         borderRadius: ""
         scale: 1,2,3
+        opacity: 0,
+        ease: "bounce",
+        stagger: 0.5, (reverse ke liye -1 dena hnn)
+        repeat: 2,-1 for infinite
+        yoyo: true,
+
+timeline in gsap
+navbar Example

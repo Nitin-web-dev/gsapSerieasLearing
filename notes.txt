@@ -1,0 +1,11 @@
+gsap
+what is animaiton
+gsap introduction
+gsap animation basics
+gsap to and from
+some other features
+gsap timeline and how to control introduction
+gsap scrollTrigger
+pinning in scrollTrigger
+some other pluggins
+project with gsap
