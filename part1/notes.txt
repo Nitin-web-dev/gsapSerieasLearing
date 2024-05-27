@@ -1,0 +1,15 @@
+what is gsap
+learn basic
+    to
+    from
+    selector
+    properties
+        delay
+        yoyo
+        duration
+        x
+        y
+        rotate
+        backgroundColor ""
+        borderRadius: ""
+        scale: 1,2,3
